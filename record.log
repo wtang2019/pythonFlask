@@ -6219,3 +6219,1811 @@ INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:50:23] "[36mGET /messages/4?__debug
 INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:50:23] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:50:23] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:50:23] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:10] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:10] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:10] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:10] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:10] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:11] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:11] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:11] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:11] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:11] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:11] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:11] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:11] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:11] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:11] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:12] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:12] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:13] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:13] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:32] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:34] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 17:58:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:44] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:45] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:45] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:45] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:45] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:45] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:46] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:46] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:46] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:46] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 18:00:46] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:20] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:20] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:20] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:20] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:20] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:20] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:20] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:20] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:21] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:21] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:23] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:24] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:24] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:24] "GET / HTTP/1.1" 200 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:31] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:31] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:31] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:31] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:31] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:32] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:32] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:39:32] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:37] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:38] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:38] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:39] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:39] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:39] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:39] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:39] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:43] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:44] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:44] "GET / HTTP/1.1" 200 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:47] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:47] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:47] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:47] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:47] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:48] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:48] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:48] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:48] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:48] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:49] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:49] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:49] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:49] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 19:51:49] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:00:34] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:00:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:00:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:00:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:00:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:00:35] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:00:35] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:00:35] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:00:35] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:00:35] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:42] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:42] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:43] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:44] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:44] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:10:44] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:16] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:16] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:17] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:17] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:17] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:17] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:12:17] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:12] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:12] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:13] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:13] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:13:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:41] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:41] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:41] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:41] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:41] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:41] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:41] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:41] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:41] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:42] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2022 20:17:42] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://192.168.1.7:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:22:33] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:22:33] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:22:33] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:22:33] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:22:33] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:22:35] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:22:35] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:22:35] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:22:35] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:22:35] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:29:09] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:29:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:29:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:29:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:29:10] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:29:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:29:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:31:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:31:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:31:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:31:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:31:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:34:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 20:34:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 22:39:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 22:39:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 22:39:00] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 22:39:00] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 22:39:00] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 22:39:00] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [08/Jun/2022 22:39:00] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 01:39:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 01:39:16] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 01:39:17] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 01:39:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 01:39:17] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 01:39:17] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 01:39:17] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 06:40:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 06:40:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 06:52:57] "GET / HTTP/1.1" 200 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 06:52:57] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 06:52:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 06:52:57] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 06:52:57] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 06:52:57] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 06:52:57] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:08:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:08:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:08:53] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:08:53] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:08:53] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:08:53] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:08:54] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:27:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:27:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:27:26] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:27:26] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:27:26] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:27:26] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:27:26] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:46:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:46:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:46:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:46:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:46:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:46:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 07:46:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:40:59] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:40:59] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:40:59] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:41:00] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:41:00] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:41:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:41:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:46:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:46:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:49:09] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:49:10] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:49:10] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:49:10] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:49:10] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:51:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:51:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:56:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:56:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:58:59] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:58:59] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:58:59] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:58:59] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:58:59] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:59:00] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:59:00] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:59:00] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:59:00] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:59:00] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:59:05] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:59:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:59:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:59:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 09:59:05] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 10:01:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 10:01:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:21:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:21:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:22:36] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:22:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:22:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:22:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:22:36] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:26:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:26:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:31:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:12] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:12] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:13] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:13] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:13] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:19] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:20] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:20] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:20] "GET / HTTP/1.1" 200 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:27] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:27] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:27] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:27] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:27] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:39] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:32:39] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:36:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:36:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:41:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:41:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:42:38] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:42:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:42:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:42:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:42:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:46:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:46:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:51:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:51:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:52:39] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:52:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:52:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:52:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:52:39] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:56:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 12:56:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:01:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:01:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:02:36] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:02:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:02:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:02:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:02:36] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:06:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:06:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:25:48] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:25:48] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:25:48] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:25:49] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:25:49] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:25:49] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:25:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:25:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:25:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:31:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:32:37] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:32:37] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:32:37] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:32:37] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:32:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:36:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:36:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:41:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:41:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:42:38] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:42:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:42:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:42:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:42:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:46:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:46:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:51:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:51:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:52:38] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:52:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:52:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:52:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:52:39] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:56:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 13:56:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:01:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:01:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:02:39] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:02:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:02:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:02:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:02:39] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:06:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:06:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:11:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:11:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:12:34] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:12:35] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:12:35] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:12:35] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:12:35] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:16:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:16:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:21:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:21:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:22:34] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:22:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:22:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:22:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:22:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:26:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:26:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:31:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:31:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:32:34] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:32:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:32:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:32:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:32:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:36:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:36:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:41:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:41:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:42:37] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:42:37] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:42:37] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:42:37] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:42:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:46:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:46:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:51:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:51:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:52:34] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:52:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:52:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:52:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:52:35] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:56:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 14:56:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:01:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:01:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:02:36] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:02:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:02:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:02:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:02:36] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:06:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:06:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:11:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:11:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:12:38] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:12:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:12:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:12:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:12:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:16:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:16:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:21:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:21:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:22:37] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:22:37] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:22:37] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:22:37] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:22:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:26:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:26:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:31:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:32:38] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:32:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:32:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:32:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:32:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:36:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:36:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:41:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:41:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:42:40] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:42:40] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:42:40] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:42:40] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:42:40] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:46:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:46:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:51:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:51:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:52:39] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:52:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:52:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:52:39] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:52:39] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:56:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 15:56:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:01:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:01:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:02:33] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:02:33] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:02:33] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:02:33] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:02:33] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:06:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:06:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:11:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:11:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:12:38] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:12:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:12:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:12:38] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:12:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:16:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:16:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:21:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:21:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:22:34] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:22:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:22:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:22:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:22:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:26:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:26:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:31:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:32:35] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:32:35] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:32:35] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:32:35] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:32:35] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:36:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:36:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:41:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:41:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:42:40] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:42:40] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:42:40] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:42:40] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:42:40] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:46:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:46:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:51:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:51:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:52:34] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:52:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:52:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:52:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:52:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:56:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 16:56:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:01:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:01:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:02:36] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:02:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:02:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:02:36] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:02:36] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:06:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:06:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:11:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:11:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:12:34] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:12:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:12:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:12:34] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:12:34] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:16:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:16:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:48:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:48:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:51:18] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:51:18] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:51:18] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:51:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:51:18] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:51:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 17:51:18] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:11:56] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:15] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:15] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:15] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:15] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:16] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:16] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:16] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:16] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:29:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:46:11] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:46:11] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:46:11] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:46:11] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:46:11] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:46:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:46:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:46:11] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 19:46:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:03:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:03:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:03:08] "GET / HTTP/1.1" 200 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:03:08] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:03:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:03:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:03:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:03:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:03:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:27:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:27:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:27:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:27:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:29:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:29:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:29:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:29:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:29:05] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:31:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:31:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:37:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:37:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:39:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:39:07] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:41:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:41:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:46:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:46:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:49:10] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:49:10] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:49:10] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:49:10] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:49:10] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:51:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:51:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:56:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:56:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:59:03] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:59:03] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:59:03] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:59:03] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 20:59:03] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 21:01:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 21:01:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 21:06:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 21:06:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 21:09:08] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 21:09:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 21:09:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 21:09:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 21:09:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 21:11:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 21:11:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:15] "GET / HTTP/1.1" 200 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:16] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:16] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:16] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:16] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:16] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:16] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:16] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:16] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [09/Jun/2022 23:11:16] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 01:11:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 01:11:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:47] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:47] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:47] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:47] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:47] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:47] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:47] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:47] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:47] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 05:11:48] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 06:30:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 06:30:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:21:15] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:26:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:26:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:29:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:29:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:29:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:29:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:29:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:31:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:36:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:36:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:39:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:39:07] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:41:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:41:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:46:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:46:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:49:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:49:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:49:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:49:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:49:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:51:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:51:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:56:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:56:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:59:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:59:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:59:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:59:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 09:59:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:01:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:01:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:06:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:06:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:16:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:16:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:16:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:16:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:16:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:19:08] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:19:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:19:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:19:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:19:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:21:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:21:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:26:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:26:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:29:05] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:29:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:29:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:29:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:29:05] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:31:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:36:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:36:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:39:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:39:07] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:41:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:41:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:46:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:46:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:49:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:49:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:49:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:49:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:49:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:51:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:51:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:56:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:56:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:59:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 10:59:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:01:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:01:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:06:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:06:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:09:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:09:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:09:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:09:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:09:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:11:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:11:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:16:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:16:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:19:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:19:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:19:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:19:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:19:07] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:21:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:21:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:26:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:26:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:29:08] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:29:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:29:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:29:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:29:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:31:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:31:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:36:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:36:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:39:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:39:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:39:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:39:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:39:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:41:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:41:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:46:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:46:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:49:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:49:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:49:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:49:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:49:05] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:51:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:51:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:56:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:56:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:59:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 11:59:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:01:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:01:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:06:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:06:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:09:09] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:09:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:09:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:09:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:09:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:11:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:11:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:16:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:16:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:19:10] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:19:10] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:19:10] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:19:10] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:19:10] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:21:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:21:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:26:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:26:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:29:08] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:29:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:29:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:29:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:29:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:31:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:31:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:36:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:36:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:39:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:39:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:39:07] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:41:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:41:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:46:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:46:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:49:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:49:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:49:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:49:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:49:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:51:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:51:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:56:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:56:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:59:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:59:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:59:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:59:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 12:59:07] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:01:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:01:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:06:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:06:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:09:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:09:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:09:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:09:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:09:07] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:11:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:11:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:16:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:16:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:19:05] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:19:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:19:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:19:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:19:05] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:21:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:21:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:26:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:26:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:29:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:29:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:29:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:29:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:29:07] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:31:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:31:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:36:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:36:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:39:09] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:39:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:39:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:39:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:39:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:41:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:41:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:46:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:46:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:49:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:49:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:49:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:49:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:49:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:07] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:09] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:09] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:50:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:51:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:51:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:56:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:56:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:36] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:37] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:37] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:37] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 13:59:38] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:55] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:55] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:55] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:55] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:55] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:56] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:56] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:56] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:56] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:01:56] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:06:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:06:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:08:02] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:08:02] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:08:02] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:08:02] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:08:02] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:08:02] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:08:02] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:08:02] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:08:02] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:08:02] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:09:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:09:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:09:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:09:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:09:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:11:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:11:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:16:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:16:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:19:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:19:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:19:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:19:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:19:07] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:21:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:21:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:26:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:26:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:29:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:29:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:29:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:29:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:29:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:31:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:31:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:36:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:36:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:39:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:39:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:39:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:39:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:39:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:41:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:41:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:46:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:46:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:49:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:49:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:49:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:49:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:49:05] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:51:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:51:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:56:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:56:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:59:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:59:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 14:59:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:01:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:01:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "GET / HTTP/1.1" 200 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:34:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:36:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:36:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:39:05] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:39:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:39:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:39:05] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:39:05] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:41:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:41:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:46:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:46:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:49:08] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:49:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:49:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:49:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:49:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:51:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:51:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:56:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:56:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:59:08] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:59:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:59:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:59:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 15:59:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:01:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:01:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:06:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:06:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:11:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:11:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:16:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:16:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:21:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:21:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:21:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:21:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:21:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:21:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:21:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:26:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:26:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:31:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:31:08] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:31:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:31:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:31:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:31:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:36:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:36:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:41:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:41:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:41:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:41:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:41:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:41:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:41:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:46:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:46:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:51:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:51:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:51:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:51:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:51:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:51:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:51:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:56:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 16:56:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:01:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:01:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:01:09] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:01:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:01:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:01:09] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:01:09] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:06:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:06:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:11:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:11:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:11:06] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:11:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:11:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:11:06] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:11:06] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:16:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:16:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:21:04] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:21:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:21:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:21:04] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:21:04] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:21:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:21:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:26:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:26:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:31:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:31:08] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:31:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:31:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:31:08] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:31:08] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:36:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:36:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:41:25] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:41:25] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:41:25] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:41:25] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:41:25] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:41:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:41:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:46:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:46:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:hello:Info level log
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:51:07] "GET / HTTP/1.1" 200 -
+WARNING:hello:Error Level Message
+WARNING:hello:Error Level 500
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:51:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:51:07] "[35m[1mGET /messages/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:51:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:51:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:51:07] "GET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [10/Jun/2022 17:51:07] "[36mGET /messages/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
