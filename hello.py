@@ -9,7 +9,7 @@ print(result)
 # Import the logging module and the New Relic log formatter
 import logging
 from newrelic.agent import NewRelicContextFormatter
-logging.basicConfig(filename='record.log', level=logging.DEBUG)
+logging.basicConfig(filename='/Users/wtang/VSCodeProjects/record.log', level=logging.DEBUG)
 
 # Instantiate a new log handler
 handler = logging.StreamHandler()
